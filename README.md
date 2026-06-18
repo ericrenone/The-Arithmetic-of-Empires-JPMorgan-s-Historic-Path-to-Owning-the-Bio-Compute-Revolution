@@ -1,7 +1,6 @@
 # **The Arithmetic of Empires: JPMorgan’s Historic Path to Owning the Bio-Compute Revolution**
 
 **📅 June 18, 2026**
-**📍 Prepared for: Jamie Dimon, CEO, JPMorgan Chase**
 **🔬 Strategic Analysis: ERI Labs (Eric Ren)**
 
 ---
